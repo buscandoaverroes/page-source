@@ -93,3 +93,6 @@ menu:
     - identifier: posts
       name: Posts
       url: posts/
+    - identifier: test
+      name: Test
+      url: test/
