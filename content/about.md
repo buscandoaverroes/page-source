@@ -1,22 +1,19 @@
 ---
 aliases:
 - about-us
-- about-hugo
 - contact
 author:
-  name: Hugo Authors
-date: "2014-04-09"
+  name: Tom Mosher
+date: "2023-03-05"
 title: About
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Admittedly, I have a bad habit of wandering and subsequently making something beautiful from it.
 
-It makes use of a variety of open source projects including:
+I studied politics, economics, religion, and all other initially-taboo topics of conversation at [Pomona College](pomona.edu "47"). After graduation I worked as a foreign language educator abroad and at home; I also fought for education-access with an NGO as a program coordinator.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I went back to school to study econometrics and international development towards a Master's of Science in Foreign Service at [Georgetown](https://msfs.georgetown.edu/).
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I then discovered open-source data science at the World Bank, where I was lucky enough to be mentored as a creative, collaborative, and curious developer.
+
+I speak English, Spanish, Japanese, and sometimes, Italian. I code in R, Stata, sometimes in Python, Julia, and soon in Rust 😄

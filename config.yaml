@@ -61,7 +61,7 @@ params:
     rss: no
     topText: []
     trademark: yes
-  homeSubtitle: Open source creative
+  homeSubtitle: Open source creative and data scientist
   images: ''
   justifyContent: no
   keywords: ''
@@ -96,9 +96,9 @@ menu:
     - identifier: CV
       name: CV
       url: CV/
-    - identifier: projects
-      name: Projects
-      url: projects/
     - identifier: work
       name: Work
       url: work/
+    - identifier: interests
+      name: Interests
+      url: interests/
