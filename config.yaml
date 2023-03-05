@@ -56,7 +56,7 @@ params:
     author: yes
     bottomText:
       - Powered by <a href="http://gohugo.io">Hugo</a>
-      - Made with &#10084; with the help of <a href="https://github.com/rhazdon">Djordje Atlialp</a>
+      - Made with &#10084; and many thanks to <a href="https://github.com/rhazdon">Djordje Atlialp</a>
     copyright: yes
     rss: no
     topText: []
@@ -93,6 +93,12 @@ menu:
     - identifier: posts
       name: Posts
       url: posts/
-    - identifier: test
-      name: Test
-      url: test/
+    - identifier: CV
+      name: CV
+      url: CV/
+    - identifier: projects
+      name: Projects
+      url: projects/
+    - identifier: work
+      name: Work
+      url: work/
