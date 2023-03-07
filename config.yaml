@@ -92,7 +92,7 @@ menu:
       url: about/
     - identifier: CV
       name: CV
-      url: CV/
+      url: cv/
     - identifier: work
       name: Work
       url: work/
