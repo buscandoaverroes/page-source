@@ -17,3 +17,5 @@ I went back to school to study econometrics and international development toward
 I then discovered open-source data science at the World Bank, where I was lucky enough to be mentored as a creative, collaborative, and curious developer.
 
 I speak English, Spanish, Japanese, and sometimes, Italian. I code in R, Stata, sometimes in Python, Julia, and soon in Rust 😄
+
+My current interests are posthumanism, singularity studies, sustainable urban transit, running, and wherever Kevin Durant is playing.
