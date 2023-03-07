@@ -99,6 +99,3 @@ menu:
     - identifier: work
       name: Work
       url: work/
-    - identifier: interests
-      name: Interests
-      url: interests/

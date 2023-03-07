@@ -1,7 +1,0 @@
----
-aliases:
-author:
-  name: Tom Mosher
-date: "2023-03-05"
-title: interests
----
